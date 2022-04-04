@@ -6,6 +6,7 @@ export default function Footer() {
       <a
         href="https://github.com/Roxaniii/vanilla-rainbow-weather-app"
         target="_blank"
+        rel="noreferrer"
       >
         Open-source
       </a>
